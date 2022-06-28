@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "uber-tailwind-redux-clone",
+    "slug": "uber-tailwind-redux-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
